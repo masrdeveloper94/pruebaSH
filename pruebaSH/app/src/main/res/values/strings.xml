@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pruebaSH</string>
+    <string name="edit_nom">Nombre</string>
+    <string name="edit_apellidos">Apellidos</string>
+    <string name="edit_edad">Edad</string>
+    <string name="button_launch">Activity B</string>
+    <string name="button_fragment">Fragment</string>
+</resources>
